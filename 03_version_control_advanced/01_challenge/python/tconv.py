@@ -21,13 +21,4 @@ def main():
     elif user_input == "f":
         convert_celsius_to_fahrenheit
     else:
-        print("Incorrect input. Please try again later")
-        
 
-
-
-
-
-
-
-#　add conv2
